@@ -1,7 +1,27 @@
 [
   {
-    "nama_tugas": "agus",
-    "mata_pelajaran": "agus",
-    "deadline": "25-05-2112"
+    "nama_tugas": "Laporan Biologi",
+    "mata_pelajaran": "Biologi",
+    "deadline": "30-01-2026"
+  },
+  {
+    "nama_tugas": "PR Matematika",
+    "mata_pelajaran": "Matematika",
+    "deadline": "02-02-2026"
+  },
+  {
+    "nama_tugas": "Presentasi Sejarah",
+    "mata_pelajaran": "Sejarah",
+    "deadline": "06-02-2026"
+  },
+  {
+    "nama_tugas": "Essay Bahasa Inggris",
+    "mata_pelajaran": "Bahasa Inggris",
+    "deadline": "15-03-2026"
+  },
+  {
+    "nama_tugas": "4",
+    "mata_pelajaran": "67",
+    "deadline": "12-12-3432"
   }
 ]
